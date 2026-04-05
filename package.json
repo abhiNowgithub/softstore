@@ -2,7 +2,6 @@
   "name": "softstore-website",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://abhiVerma44.github.io/softstore-website",
   "dependencies": {
     "framer-motion": "^12.0.0",
     "react": "^19.0.0",
